@@ -1,2 +1,2 @@
 # Cotação-Python
- Coleta de cotações de moedas
+Cotação de moedas em tempo real
